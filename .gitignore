@@ -40,23 +40,13 @@ Temporary Items
 bin/
 .vscode/
 
-# Files created by the bot inside resources folder
-resources/bannedUsers.bin
-resources/botlogin.txt
-resources/phantombot.db
-resources/stacktrace.txt
-resources/stdio.txt
-resources/web/default.html
-resources/web/default.txt
-resources/scripts/*
+
 
 # Do not include the class files for GenerateTwitterTokens
 genTwitterTokens/classes/generatetwittertokens
 
 # IntelliJ Project files
-dist/
-build/
-out/
+target/
 .idea
 *.iml
 
